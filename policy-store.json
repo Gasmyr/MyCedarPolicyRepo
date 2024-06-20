@@ -1,0 +1,10 @@
+[
+    {
+        "name": "myOtherStore",
+        "id": "8574526edab6dffbfe2769c6d16d456565880199da7b",
+        "description": "store from another repo",
+        "policies": [],
+        "identity_source": [],
+        "schema": {}
+    }
+]
